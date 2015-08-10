@@ -1,2 +1,2 @@
 # findingaids-pdf
-PDF versions of EAD files
+Rockefeller Archive Center's PDF finding aids, generated from EAD files.
